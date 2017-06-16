@@ -1,0 +1,12 @@
+c:\users\skifok\documents\visual studio 2015\Projects\Filter\Filter\bin\Debug\Filter.exe.config
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\bin\Debug\Filter.exe
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\bin\Debug\Filter.pdb
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.Form1.resources
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.Properties.Resources.resources
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.csproj.GenerateResource.Cache
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.exe
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.pdb
+c:\Users\SkifOK\documents\visual studio 2015\Projects\Filter\Filter\obj\Debug\Filter.output.resources
+C:\Users\SkifOK\Documents\Visual Studio 2015\Projects\Filter\Filter\bin\Debug\MathNet.Numerics.dll
+C:\Users\SkifOK\Documents\Visual Studio 2015\Projects\Filter\Filter\bin\Debug\MathNet.Numerics.xml
